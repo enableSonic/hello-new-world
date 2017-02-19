@@ -27,6 +27,8 @@ public class Customer {
 	String country;
 	@NotBlank
 	String javaSkills;
+
+	String test01;
  
 	String secretValue;
 	
